@@ -1,2 +1,2 @@
-# Implementaci-n-de-red-para-conectar-sedes
+# Implementacion-de-red-para-conectar-sedes
 Proyecto académico
